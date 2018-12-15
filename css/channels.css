@@ -64,7 +64,7 @@ input[type=text], select, textarea {
 #messages-list {
     height: 35em;
     padding: 0.2rem 1rem;
-    height: 80%;		
+    height: 50%;		
 }
 
 .message-row {
