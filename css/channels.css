@@ -1,0 +1,113 @@
+body {
+  font-family: 'Montserrat';
+  margin: 0px;
+  overflow: hidden
+}
+
+#menubar {
+  background-color: #42009d;
+  padding: 0.75% ;
+  margin-right: 1.5%;
+  float: left;
+  color: #ffffff;
+  width: 175px;
+  min-width: 90px;
+  height: 100vh;
+  position: absolute;
+}
+
+h1 {
+  margin-top: 15% ;
+  margin-bottom: 15% ;
+  font-size: 11pt;
+  text-align: center;
+}
+
+#user {
+  font-size: 11pt;
+  text-align: left;
+  line-height: 0.5;
+}
+
+#menu {
+  font-size: 11pt;
+  text-align: left;
+  line-height: 1.9;
+}
+
+main {
+    padding-top: 10px;
+}
+.main-section {
+  width: 100%;
+  margin-left: 210px;
+  margin-bottom: 10px;
+  width: 65%;
+  padding: 5px 5px;
+  border: 1px solid #3533ff;
+  height: 100%;
+}
+
+aside{ 
+  float:left;
+}
+
+input[type=text], select, textarea {
+    margin-left: 210px;
+    width: 60%;
+    height:100px;
+    padding: 3px;
+    font-size: 11pt;
+    border: 1px solid #c1c1c1;
+}
+
+#messages-list {
+    height: 35em;
+    padding: 0.2rem 1rem;		
+}
+
+.message-row {
+		display: inline-block;
+		width :100%;
+		margin-bottom: 20px;
+}
+			
+.message-image {
+		display : inline-block;
+		width : 10%;	
+		float : left;
+		min-width: 30px;
+		max-width: 30px;	
+}
+
+.message-image img {
+		max-width: 60px;
+}
+
+.message-meta-text {
+		display : inline-block;
+		width : 90%;	
+		float : right;	
+		padding : 0.25em;	
+}
+
+.message-text {
+		display : inline-block;
+		width : 100%;	
+		float : left;	
+}	
+			
+.message-time {
+		display : inline-block;
+		font-size: 10pt;	
+}				
+			
+.message-author {
+		display: inline-block;
+		vertical-align: top;				
+		font-size: 12pt;	
+    font-weight: bold;	
+		padding : 0.1rem;
+		width : 4.5rem;		
+}		
+		

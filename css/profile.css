@@ -1,0 +1,89 @@
+body {
+  max-width: 1200px;
+  margin: auto;
+  font-family: 'Montserrat';
+}
+
+h1 {
+  margin-left: 350px;
+  margin-bottom: 0px;
+  font-size: 25pt;
+  font-size: 25pt;
+  font-weight: normal;
+  font-weight: normal;
+  text-align: left;
+  color: #42009d;
+}
+
+section {
+  margin-left: 375px; 
+  margin-bottom: 15px;
+}
+
+#user {
+  display: inline-block;
+  width: 0px;
+  font-size: 15pt;
+  font-weight: normal;
+  text-align: left;
+  color: #42009d;
+}
+
+#location {
+  display: inline-block;
+  width: 200px;
+  font-size: 12pt;
+  line-height: 1.50;
+  font-weight: normal;
+  text-align: left;
+  color: #000000;
+}
+
+i {
+  display: inline-block;
+  width: 20px;  
+  color: #42009d;
+}
+
+aside {
+  float: left;
+  margin-right: 80px;
+  width: 250px;
+  height: 500px;
+}
+
+img {
+  border-radius: 100%;
+  width: 250px;
+  height: 250px;
+}
+
+p {
+  margin: 15px;
+  font-size: 12pt;
+  line-height: 1.25;
+  font-weight: normal;
+  text-align: left;
+  color: #000000;
+}
+
+.bio {
+  color: #808080;
+}
+
+hr {
+  margin-top: 30px;
+  margin-bottom: 40px;
+  border: 1px solid;
+  line-height: 1.50;
+  color: #42009d;
+}
+
+span {
+  display: inline-block;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  width: 95px; 
+  font-weight: bold;
+  color: #42009d;
+}
