@@ -65,7 +65,7 @@ h3 {
   display:none;
 }
 
-button {
+.button {
   height: 26px;
   padding-top: 1px;
   padding-bottom: 1px;
@@ -137,7 +137,7 @@ button {
     border: 1px solid #c1c1c1;
    }
   
-  button {
+  .button {
     display:none;
   }
   
